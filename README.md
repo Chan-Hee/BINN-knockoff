@@ -1,2 +1,1 @@
-# BINN-knockoff
-graduation project : pathway analysis using biologically informed neural network (BINN)
+# Biologically Informed Neural Network Knockoff\n\nProject description here.
